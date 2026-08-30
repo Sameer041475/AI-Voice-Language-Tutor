@@ -5,7 +5,8 @@ An AI-powered voice language learning application that helps users improve their
 The user speaks a sentence using the microphone. The application converts the speech into text using **Faster-Whisper**, analyzes the sentence using **Llama 3 through Ollama**, provides detailed grammar and vocabulary feedback, generates a corrected sentence, converts the corrected sentence back into speech using **gTTS**, and stores the practice session for progress tracking.
 
 ---
-
+# 🎯DEMO
+URL :- https://sameer041475-ai-voice-language-tutor-app-frh7qv.streamlit.app/
 ## 📌 Project Overview
 
 Learning a new language requires continuous speaking practice and immediate feedback.
